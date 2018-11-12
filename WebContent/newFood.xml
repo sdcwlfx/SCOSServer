@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foods>
+	<food>
+		<foodName>黄瓜炒鸡蛋</foodName>
+		<foodPrice>10</foodPrice>
+		<foodStackNum>101</foodStackNum>
+		<foodCategory>热菜</foodCategory>
+	</food>
+	<food>
+		<foodName>醋炝黄瓜</foodName>
+		<foodPrice>7</foodPrice>
+		<foodStackNum>101</foodStackNum>
+		<foodCategory>凉菜</foodCategory>
+	</food>
+	<food>
+		<foodName>西红柿炒鸡蛋</foodName>
+		<foodPrice>6</foodPrice>
+		<foodStackNum>101</foodStackNum>
+		<foodCategory>热菜</foodCategory>
+	</food>
+	<food>
+		<foodName>鸡蛋炒黄瓜</foodName>
+		<foodPrice>10</foodPrice>
+		<foodStackNum>100</foodStackNum>
+		<foodCategory>热菜</foodCategory>
+	</food>
+
+
+</foods>
